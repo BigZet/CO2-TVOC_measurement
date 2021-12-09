@@ -1,0 +1,5 @@
+#define SECRET_SSID   "MGTS_GPON_4E77"
+#define SECRET_PASS   "ADXXPeXD"
+#define ACCESS_TOKEN  "OWXKrLYuIpmvvRvZ2goR"
+#define BROKER        "demo.thingsboard.io"
+#define DEVICE_ID     "45184cb0-586e-11ec-9ebb-6f76783562fa"
